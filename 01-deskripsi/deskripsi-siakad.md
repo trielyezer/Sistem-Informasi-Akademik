@@ -14,4 +14,5 @@ SIAKAD adalah sistem berbasis komputer yang digunakan perguruan tinggi atau seko
 - Mendukung pelaporan, akreditasi, dan pengambilan keputusan.
 
 ## Jenis Informasi yang Dikelola
-Data mahasiswa, dosen, mata kuliah, kelas, KRS, nilai, jadwal, status keaktifan, pembayaran, pengumuman, dan laporan akademik.
+Data mahasiswa, dosen, mata kuliah, kelas, KRS, nilai, jadwal, status keaktifan, pembayaran, pengumuman, dan laporan akademik
+//Test//
